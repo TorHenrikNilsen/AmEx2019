@@ -1,4 +1,10 @@
-# AmEx2019
+# AmEx2019 - 
+
+The project is not completed. 13th of April , the first part has been completed. The next part will be introducing new features with feature engineering.
+Part 3 will introduce Random Forest and XG Boost modelling for prediction, with Logistic Regression as a base model.
+I will introduce train, test and validation based on the project's train set. Then I will use the final model and apply the project's test set.
+The project will be completed by May 1st.
+
 ## Predicting Coupon Redemption
 XYZ Credit Card company regularly helps it’s merchants understand their data better and take key business decisions accurately by providing machine learning and analytics consulting. ABC is an established Brick & Mortar retailer that frequently conducts marketing campaigns for its diverse product range. As a merchant of XYZ, they have sought XYZ to assist them in their discount marketing process using the power of machine learning. Can you wear the AmExpert hat and help out ABC?
 
